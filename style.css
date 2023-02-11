@@ -1,0 +1,11 @@
+h1 {
+  font-style: italic;
+  font-size: 300%;
+    color:rgb(102, 27, 92);
+  }
+  p {
+	 color:rgb(6, 95, 68);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+  }
